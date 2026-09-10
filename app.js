@@ -28,7 +28,7 @@ const PRODUCTS = [
     tagline: 'Smoky oud wrapped in golden amber — bold, royal, unforgettable.',
     notes: { top: 'Saffron, Nutmeg', heart: 'Smoked Oud, Leather', base: 'Amber, Dark Musk' },
     size: '50ml',
-    price: 2500,
+    price: 2499,
     badge: 'Bestseller',               // PLACEHOLDER badge — verify or remove
     category: 'men',                   // men | women | unisex
     img: 'images/product-oud-royale.jpeg',
@@ -40,7 +40,7 @@ const PRODUCTS = [
     tagline: 'Midnight bergamot and leather — quiet power in a bottle.',
     notes: { top: 'Bergamot, Black Pepper', heart: 'Leather, Vetiver', base: 'Cedarwood, Tonka' },
     size: '50ml',
-    price: '2200',
+    price: '1799',
     badge: 'New',                      // PLACEHOLDER badge
     category: 'men',
     img: 'images/product-noir-essence.jpeg',
@@ -48,52 +48,28 @@ const PRODUCTS = [
   },
   {
     id: 'velour-musk',
-    name: 'Velour Musk',
+    name: 'Khamra Qahwa',
     tagline: 'Soft white musk and iris — elegance you wear every day.',
     notes: { top: 'White Tea, Pear', heart: 'Iris, White Musk', base: 'Sandalwood, Cashmere' },
     size: '50ml',
-    price: 3950,
+    price: 1799,
     badge: '',
     category: 'women',
-    img: 'images/product-velour-musk.jpg',
+    img: 'images/product-velour-musk.jpeg',
     alt: 'HB Velour Musk frosted white perfume bottle with flowers and silk'
   },
   {
     id: 'amber-dusk',
-    name: 'Amber Dusk',
+    name: 'Cool water',
     tagline: 'Warm amber and vanilla — a golden-hour glow, bottled.',
     notes: { top: 'Pink Pepper, Mandarin', heart: 'Amber, Vanilla Orchid', base: 'Tonka, Benzoin' },
     size: '100ml',
-    price: 5450,
+    price: 1799,
     badge: 'Limited',                  // PLACEHOLDER badge
     category: 'unisex',
-    img: 'images/product-amber-dusk.jpg',
+    img: 'images/product-amber-dusk.jpeg',
     alt: 'HB Amber Dusk amber glass perfume bottle glowing in warm light'
   },
-  {
-    id: 'citrus-imperial',
-    name: 'Citrus Imperial',
-    tagline: 'Sparkling citrus and neroli — fresh, sharp, full of energy.',
-    notes: { top: 'Bergamot, Green Apple', heart: 'Neroli, White Tea', base: 'Cedar, Clean Musk' },
-    size: '50ml',
-    price: 3450,
-    badge: '',
-    category: 'unisex',
-    img: 'images/product-citrus-imperial.jpg',
-    alt: 'HB Citrus Imperial clear perfume bottle with citrus and neroli'
-  },
-  {
-    id: 'rose-sultan',
-    name: 'Rose Sultan',
-    tagline: 'Taif rose and saffron — romance with a royal edge.',
-    notes: { top: 'Saffron, Raspberry', heart: 'Taif Rose, Peony', base: 'Patchouli, Suede Musk' },
-    size: '50ml',
-    price: 4950,
-    badge: 'New',                      // PLACEHOLDER badge
-    category: 'women',
-    img: 'images/product-rose-sultan.jpg',
-    alt: 'HB Rose Sultan rose-gold perfume bottle with red rose petals'
-  }
 ];
 
 /* ── 3. SOCIALS — ⚠ replace "#" with real profile URLs ──── */
