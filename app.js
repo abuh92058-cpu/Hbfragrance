@@ -63,7 +63,7 @@ const PRODUCTS = [
     name: 'Cool water',
     tagline: 'Warm amber and vanilla — a golden-hour glow, bottled.',
     notes: { top: 'Pink Pepper, Mandarin', heart: 'Amber, Vanilla Orchid', base: 'Tonka, Benzoin' },
-    size: '100ml',
+    size: '50ml',
     price: 1799,
     badge: 'Limited',                  // PLACEHOLDER badge
     category: 'unisex',
